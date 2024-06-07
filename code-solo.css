@@ -9,7 +9,7 @@
 /* 4. Select the sample-2 class. Using the display property, apply a value of flex. Using the justify-content property, apply a value of space-between. */
 .sample-2{
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-between;
 }
 
 
